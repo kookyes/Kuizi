@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="pyetja_pare">Die farben werden in dem Ordner gespeichert dimens.xml</string>
+    <string name="pyetja_dyte">Die zweite Frage</string>
+    <string name="text_sakte">Richtig!</string>
+    <string name="text_pasakte">Falsch!</string>
+    <string name="pergjigja_sakte">Die richtige Antwort!</string>
+    <string name="pergjigja_pasakte">Die falsche Antwort!</string>
+</resources>

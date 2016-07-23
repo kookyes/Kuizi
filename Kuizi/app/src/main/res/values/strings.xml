@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kuizi</string>
+    <string name="pyetja_dyte">Pyetja e dyte</string>
+    <string name="text_sakte">Sakte!</string>
+    <string name="text_pasakte">Pasakte!</string>
+    <string name="pergjigja_sakte">Pergjigja e sakte!</string>
+    <string name="pergjigja_pasakte">Pergjigja e pasakte!</string>
+
+    <string name="pyetja_ngyrat">Ngjyrat ruhen ne follderin dimens.xml</string>
+    <string name="pyetja_metodatCreate">Metoda onCreate duhet te definohet nga perdoruesi</string>
+    <string name="pyetja_classR">Ne klasen R.java ruhen id-te te te gjitha resurseve</string>
+    <string name="pyetja_strings">Perkthimi i aplikacionit eshte i mundeshem permes file-it strings.xml</string>
+
+</resources>
